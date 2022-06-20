@@ -14,3 +14,6 @@
 !.oh-my-zsh/*
 !.oh-my-zsh/**/*
 !.zshrc
+
+!scripts/
+!scripts/*
