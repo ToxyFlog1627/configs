@@ -15,7 +15,9 @@
 !.oh-my-zsh/**/*
 !.zshrc
 
-**/.git/**
+**/.git/
+**/.git/*
 **/.git/**/*
-**/.github/**
+**/.github/
+**/.github/*
 **/.github/**/*
