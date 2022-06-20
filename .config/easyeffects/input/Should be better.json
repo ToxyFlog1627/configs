@@ -1,0 +1,31 @@
+{
+    "input": {
+        "bass_enhancer": {
+            "amount": 5.0,
+            "blend": 0.0,
+            "floor": 20.0,
+            "floor-active": false,
+            "harmonics": 8.0,
+            "input-gain": 0.0,
+            "output-gain": 0.1,
+            "scope": 200.0
+        },
+        "blocklist": [],
+        "echo_canceller": {
+            "filter-length": 100,
+            "frame-size": 50,
+            "input-gain": 0.0,
+            "output-gain": 2.5
+        },
+        "plugins_order": [
+            "rnnoise",
+            "bass_enhancer",
+            "echo_canceller"
+        ],
+        "rnnoise": {
+            "input-gain": 0.0,
+            "model-path": "",
+            "output-gain": 0.0
+        }
+    }
+}

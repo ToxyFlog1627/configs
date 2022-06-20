@@ -1,0 +1,8 @@
+2022/06/09-21:38:15.067 299e8 Reusing MANIFEST /home/tx/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/06/09-21:38:15.067 299e8 Recovering log #9
+2022/06/09-21:38:15.069 299e8 Level-0 table #12: started
+2022/06/09-21:38:15.075 299e8 Level-0 table #12: 99238 bytes OK
+2022/06/09-21:38:15.078 299e8 Delete type=0 #9
+2022/06/09-21:39:27.919 2b883 Level-0 table #15: started
+2022/06/09-21:39:27.926 2b883 Level-0 table #15: 98027 bytes OK
+2022/06/09-21:39:27.929 2b883 Delete type=0 #13
