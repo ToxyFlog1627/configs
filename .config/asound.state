@@ -430,7 +430,7 @@ state.PCH {
 	control.34 {
 		iface MIXER
 		name 'Master Playback Volume'
-		value 52
+		value 50
 		comment {
 			access 'read write'
 			type INTEGER
@@ -438,7 +438,7 @@ state.PCH {
 			range '0 - 64'
 			dbmin -6400
 			dbmax 0
-			dbvalue.0 -1200
+			dbvalue.0 -1400
 		}
 	}
 	control.35 {

@@ -1,5 +1,6 @@
 #!/bin/sh
 
+/home/tx/scripts/restore_alsa_settings.sh
 xsetroot -name "$(date +"%a, %d %b %H:%M %p")"
 sleep $((60 - $(date +%S)))
 
@@ -10,7 +11,7 @@ while true; do
     language="| $(if [[ $(xset -q|grep LED| awk '{ print $10 }') == 00000000 ]]; then echo 'US'; else echo 'RU'; fi) "
 
     updatesNum=0
-    if [[ $(($(date +%s) - $lastUpdate)) > 20 ]]; then
+    if [[ $(($(($(date +%s) - $lastUpdate)) > 20)) = 1 ]]; then
         updatesNum=$(yay -Syup | awk '{print $2}' | grep -v '\n' | wc -l)
         lastUpdate=$(date +%s)
     fi
