@@ -1,6 +1,8 @@
 *
 !.gitignore
 
+!.xinitrc
+
 !.vim/
 !.vim/*
 !.vim/**/*

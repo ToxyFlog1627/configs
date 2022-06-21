@@ -1,6 +1,5 @@
 #!/bin/sh
 
-/home/tx/scripts/restore_alsa_settings.sh
 xsetroot -name "$(date +"%a, %d %b %H:%M %p")"
 sleep $((60 - $(date +%S)))
 
