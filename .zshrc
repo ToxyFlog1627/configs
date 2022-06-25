@@ -11,8 +11,6 @@ source $ZSH/oh-my-zsh.sh
 
 export LANG=en_US.UTF-8
 
-# export ARCHFLAGS="-arch x86_64"
-
 
 alias ll='lsd -al'
 alias btm='btm --color nord && clear'
@@ -22,7 +20,7 @@ alias spt="spt && clear"
 yay () {
    if [[ $@ == '' ]]; then
         /bin/yay
-        /home/tx/scripts/refresh_status_bar.sh
+        (/home/tx/scripts/refresh_status_bar.sh true &) > /dev/null
     else
         /bin/yay $@
     fi

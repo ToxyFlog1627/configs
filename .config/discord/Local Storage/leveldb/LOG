@@ -1,3 +1,9 @@
-2022/06/21-20:34:46.464 939 Reusing MANIFEST /home/tx/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/06/21-20:34:46.468 939 Recovering log #20
-2022/06/21-20:34:46.469 939 Reusing old log /home/tx/.config/discord/Local Storage/leveldb/000020.log 
+2022/06/24-18:11:35.459 2cc3 Reusing MANIFEST /home/tx/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/24-18:11:35.460 2cc3 Recovering log #34
+2022/06/24-18:11:35.460 2cc3 Reusing old log /home/tx/.config/discord/Local Storage/leveldb/000034.log 
+2022/06/24-18:22:39.380 2cc5 Level-0 table #39: started
+2022/06/24-18:22:39.384 2cc5 Level-0 table #39: 16059 bytes OK
+2022/06/24-18:22:39.387 2cc5 Delete type=0 #34
+2022/06/24-19:38:36.118 2cc5 Level-0 table #41: started
+2022/06/24-19:38:36.122 2cc5 Level-0 table #41: 8882 bytes OK
+2022/06/24-19:38:36.125 2cc5 Delete type=0 #38

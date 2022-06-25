@@ -34,7 +34,7 @@ export SSH_AUTH_SOCK
 # Mouse sensativity
 xinput set-prop 15 'libinput Accel Speed' -.65
 # Status bar 
-/home/tx/scripts/status_bar.sh &
+(sleep 3s && /home/tx/scripts/status_bar.sh &) &
 # Language switching
 setxkbmap -layout "us,ru" -option "grp:win_space_toggle"
 # Wallpaper
@@ -42,6 +42,6 @@ nitrogen --restore &
 # Blurred bg
 picom --experimental-backends --backend glx &
 # Sound settings
-/home/tx/scripts/setup_sound.sh
+/home/tx/scripts/setup_sound.sh &
 # DWM
 exec dwm
