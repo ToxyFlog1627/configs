@@ -1,3 +1,2 @@
-2022/06/24-17:50:44.189 2c6 Reusing MANIFEST /home/tx/.config/discord/shared_proto_db/metadata/MANIFEST-000001
-2022/06/24-17:50:44.189 2c6 Recovering log #3
-2022/06/24-17:50:44.189 2c6 Reusing old log /home/tx/.config/discord/shared_proto_db/metadata/000003.log 
+2022/06/25-09:37:12.471 496 Creating DB /home/tx/.config/discord/shared_proto_db/metadata since it was missing.
+2022/06/25-09:37:12.477 496 Reusing MANIFEST /home/tx/.config/discord/shared_proto_db/metadata/MANIFEST-000001

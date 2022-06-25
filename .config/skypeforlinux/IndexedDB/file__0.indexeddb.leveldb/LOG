@@ -1,3 +1,3 @@
-2022/06/23-14:13:32.270 538 Reusing MANIFEST /home/tx/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2022/06/23-14:13:32.270 538 Recovering log #3
-2022/06/23-14:13:32.286 538 Reusing old log /home/tx/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2022/06/25-19:35:03.557 675 Reusing MANIFEST /home/tx/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/06/25-19:35:03.557 675 Recovering log #4
+2022/06/25-19:35:03.563 675 Reusing old log /home/tx/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000004.log 

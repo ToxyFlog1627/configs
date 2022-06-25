@@ -18,7 +18,7 @@ alias clock='tty-clock -s -c -C 5 -D'
 alias spt="spt && clear"
 
 yay () {
-   if [[ $@ == '' ]]; then
+    if [[ $@ == '' ]]; then
         /bin/yay
         (/home/tx/scripts/refresh_status_bar.sh true &) > /dev/null
     else

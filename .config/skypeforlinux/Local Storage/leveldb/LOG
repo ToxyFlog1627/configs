@@ -1,15 +1,3 @@
-2022/06/23-14:13:30.766 537 Reusing MANIFEST /home/tx/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
-2022/06/23-14:13:30.766 537 Recovering log #14
-2022/06/23-14:13:30.767 537 Reusing old log /home/tx/.config/skypeforlinux/Local Storage/leveldb/000014.log 
-2022/06/23-14:14:48.538 538 Level-0 table #18: started
-2022/06/23-14:14:48.545 538 Level-0 table #18: 90187 bytes OK
-2022/06/23-14:14:48.549 538 Delete type=0 #14
-2022/06/23-14:14:48.549 538 Compacting 4@0 + 1@1 files
-2022/06/23-14:14:48.555 538 Generated table #19@0: 14 keys, 90356 bytes
-2022/06/23-14:14:48.555 538 Compacted 4@0 + 1@1 files => 90356 bytes
-2022/06/23-14:14:48.558 538 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/06/23-14:14:48.559 538 Delete type=2 #8
-2022/06/23-14:14:48.559 538 Delete type=2 #15
-2022/06/23-14:14:48.559 538 Delete type=2 #18
-2022/06/23-14:14:48.559 538 Delete type=2 #12
-2022/06/23-14:14:48.559 538 Delete type=2 #10
+2022/06/25-19:35:02.092 65f Reusing MANIFEST /home/tx/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/06/25-19:35:02.093 65f Recovering log #26
+2022/06/25-19:35:02.093 65f Reusing old log /home/tx/.config/skypeforlinux/Local Storage/leveldb/000026.log 

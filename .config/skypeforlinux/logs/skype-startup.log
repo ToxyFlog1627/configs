@@ -5,13 +5,3 @@ ioctl failed for wlan0, errno = 19 (No such device)
 ioctl failed for wlp2s0, errno = 19 (No such device)
 ioctl failed for wlp3s0, errno = 19 (No such device)
 ioctl failed for wlp4s0, errno = 19 (No such device)
-[1304:0623/141406.139818:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
-[1304:0623/141406.142108:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
-[1304:0623/141451.610407:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.portal.OpenURI.OpenDirectory: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.portal.Desktop was not provided by any .service files
-[1304:0623/141451.610427:ERROR:platform_util_linux.cc(237)] Error calling OpenDirectory
-Error: Must run ranger from terminal
-/sbin/xdg-open: line 881: x-www-browser: command not found
-[1304:0623/141455.563264:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.portal.OpenURI.OpenDirectory: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.portal.Desktop was not provided by any .service files
-[1304:0623/141455.563314:ERROR:platform_util_linux.cc(237)] Error calling OpenDirectory
-Error: Must run ranger from terminal
-/sbin/xdg-open: line 881: x-www-browser: command not found
