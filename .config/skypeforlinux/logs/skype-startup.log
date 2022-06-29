@@ -5,3 +5,9 @@ ioctl failed for wlan0, errno = 19 (No such device)
 ioctl failed for wlp2s0, errno = 19 (No such device)
 ioctl failed for wlp3s0, errno = 19 (No such device)
 ioctl failed for wlp4s0, errno = 19 (No such device)
+[694:0627/174445.320260:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -200
+[694:0627/174448.066612:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -200
+[633:0627/174515.098252:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
+[633:0627/174515.102391:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
+[694:0627/174524.201652:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -200
+[694:0627/174526.944146:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -200

@@ -34,9 +34,6 @@ vnoremap <silent> <C-c> :w !xclip -selection clipboard<CR>
 nnoremap <C-_> :Commentary<CR>
 vnoremap <C-_> :Commentary<CR>
 
-" Clear screen on exit
-au VimLeave * :!clear
-
 " COC settings
 function! s:check_back_space() abort
     let col = col('.') - 1

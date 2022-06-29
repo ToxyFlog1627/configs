@@ -1,5 +1,6 @@
 [Default Applications]
 x-scheme-handler/tg=userapp-Telegram Desktop-O6ERN1.desktop
+x-scheme-handler/discord-529029853471834113=discord-529029853471834113.desktop
 
 [Added Associations]
 x-scheme-handler/tg=userapp-Telegram Desktop-O6ERN1.desktop;

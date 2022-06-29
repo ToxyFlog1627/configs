@@ -1,2 +1,12 @@
-2022/06/25-19:47:56.853 26f Creating DB /home/tx/.config/discord/Local Storage/leveldb since it was missing.
-2022/06/25-19:47:56.861 26f Reusing MANIFEST /home/tx/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/27-18:26:36.551 142f Reusing MANIFEST /home/tx/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/27-18:26:36.551 142f Recovering log #10
+2022/06/27-18:26:36.551 142f Reusing old log /home/tx/.config/discord/Local Storage/leveldb/000010.log 
+2022/06/27-18:27:37.323 142f Level-0 table #15: started
+2022/06/27-18:27:37.339 142f Level-0 table #15: 486150 bytes OK
+2022/06/27-18:27:37.346 142f Delete type=0 #10
+2022/06/27-21:26:17.032 db80 Level-0 table #17: started
+2022/06/27-21:26:17.036 db80 Level-0 table #17: 10391 bytes OK
+2022/06/27-21:26:17.038 db80 Delete type=0 #14
+2022/06/27-21:53:07.157 e1f6 Level-0 table #19: started
+2022/06/27-21:53:07.162 e1f6 Level-0 table #19: 12007 bytes OK
+2022/06/27-21:53:07.165 e1f6 Delete type=0 #16

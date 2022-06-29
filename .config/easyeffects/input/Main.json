@@ -1,19 +1,19 @@
 {
     "input": {
         "bass_enhancer": {
-            "amount": 5.0,
+            "amount": 2.5,
             "blend": 0.0,
             "floor": 20.0,
             "floor-active": false,
             "harmonics": 5.000000000000012,
             "input-gain": 0.0,
-            "output-gain": 2.0,
+            "output-gain": 0.1,
             "scope": 150.0
         },
         "blocklist": [],
         "plugins_order": [
-            "rnnoise",
-            "bass_enhancer"
+            "bass_enhancer",
+            "rnnoise"
         ],
         "rnnoise": {
             "input-gain": 0.1,
