@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
-let g:netrw_dirhist_5='/home/tx/.oh-my-zsh'
-let g:netrw_dirhist_4='/home/tx/.cache/yay/paleofetch-git'
-let g:netrw_dirhist_3='/home/tx/.config/ranger'
-let g:netrw_dirhist_2='/home/tx/.vim'
-let g:netrw_dirhist_1='/usr/share/pipewire'
