@@ -1,17 +1,10 @@
 *
 !.gitignore
-
 !.xinitrc
-
-!.vim/
-!.vim/*
-!.vim/**/*
 !.vimrc
-
 !.config/
 !.config/*
 !.config/**/*
-
 !.zshrc
 !scripts/
 !scripts/*
